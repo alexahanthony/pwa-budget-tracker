@@ -1,42 +1,39 @@
 # pwa-budget-tracker
 
-# Unit 18 PWA Homework: Online/Offline Budget Trackers
+![Screenshot](./screenshot.png)
 
-Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
+# Table of Contents (Optional)
+N/A
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+# Installation
 
-Offline Functionality:
+View Github Repository. https://github.com/alexahanthony/pwa-budget-tracker
+View deployed link on Heroku. https://agile-caverns-71451.herokuapp.com/ 
 
-  * Enter deposits offline
+# Usage
 
-  * Enter expenses offline
+This commandline application allows you to keep track of expenses by adding and subtracting items and keeping track of the total remaining balance. There is a chart that shows the transaction history as well.
 
-When brought back online:
+# Credits
+There were no collaborators, (other than classmates and teacher feedback).
 
-  * Offline entries should be added to tracker.
+# NPM Packages: 
+*  "express": "^4.16.4",
+*  "mongoose": "^5.5.8"
 
-## User Story
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
+# Third-party assets: 
+https://getbootstrap.com/ for styling
 
-## Business Context
+https://stackoverflow.com/ for help with syntax
 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+# License
+N/A
 
+# Badges
+N/A
 
-## Acceptance Criteria
-GIVEN a user is on Budget App without an internet connection
-WHEN the user inputs a withdrawal or deposit
-THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+# Contributing
+N/A
 
-
-## Submission on BCS
-
-* You are required to submit the following:
-
-  * the URL to the deployed application
-
-  * the URL to the Github repository
-
+# Tests
+N/A
