@@ -8,7 +8,7 @@ N/A
 # Installation
 
 View Github Repository. https://github.com/alexahanthony/pwa-budget-tracker
-View deployed link on Heroku. https://agile-caverns-71451.herokuapp.com/ 
+View deployed link on Heroku. https://budget-tracker-yay.herokuapp.com/
 
 # Usage
 
